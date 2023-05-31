@@ -4,7 +4,7 @@ CREATE TABLE "Ad" (
     "gameId" TEXT NOT NULL,
     "name" TEXT NOT NULL,
     "yearsPlaying" INTEGER NOT NULL,
-    "dicord" TEXT NOT NULL,
+    "discord" TEXT NOT NULL,
     "weekDays" TEXT NOT NULL,
     "hourStart" INTEGER NOT NULL,
     "hourEnd" INTEGER NOT NULL,
